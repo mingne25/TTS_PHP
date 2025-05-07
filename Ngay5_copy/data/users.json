@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$10$l.XmT.6eSl6RUK9IbgLoNuXbu8WtXPyayjQVFNZeOZ5MB\/5wkg5cK",
+        "fullname": "Qu\u1ea3n tr\u1ecb vi\u00ean",
+        "role": "admin",
+        "email": "admin@example.com",
+        "created_at": "2025-05-07 02:14:01"
+    },
+    {
+        "id": 2,
+        "username": "user",
+        "password": "$2y$10$FA.\/\/rNDZ7gKY96AdBiViOKimIJRIRcSxgpolMXXDmVnJPF32sDsG",
+        "fullname": "Ng\u01b0\u1eddi d\u00f9ng",
+        "role": "user",
+        "email": "user@example.com",
+        "created_at": "2025-05-07 02:14:01"
+    }
+]

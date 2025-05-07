@@ -1,0 +1,11 @@
+[2025-05-07 01:05:06] - IP: 127.0.0.1 - Action: Đăng nhập vào hệ thống - File: upload_1746579906_aichat-image-2024-11-05T16_00_56.865Z.jpg
+[2025-05-07 01:34:56] - IP: ::1 - Hành động: Đăng xuất khỏi hệ thống - Tệp: upload_1746581696_aichat-image-2024-11-05T16_00_56.865Z.jpg
+[2025-05-07 01:35:39] - IP: ::1 - Hành động: Gửi biểu mẫu đánh giá
+[2025-05-07 01:35:57] - IP: ::1 - Hành động: Đăng nhập thất bại
+[2025-05-07 01:36:07] - IP: ::1 - Hành động: Cảnh báo bảo mật
+[2025-05-07 01:48:35] - IP: ::1 - Hành động: Đăng nhập thất bại
+[2025-05-07 02:14:21] - IP: ::1 - Hành động: Đăng nhập thành công
+[2025-05-07 02:27:29] - IP: ::1 - Hành động: Đăng xuất khỏi hệ thống
+[2025-05-07 02:28:32] - IP: ::1 - Hành động: Đăng nhập thành công
+[2025-05-07 02:28:50] - IP: ::1 - Hành động: Đăng xuất khỏi hệ thống
+[2025-05-07 02:28:58] - IP: ::1 - Hành động: Đăng nhập thành công
