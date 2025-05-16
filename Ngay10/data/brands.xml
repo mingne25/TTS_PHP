@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category name="Electronics">
+        <brand>Apple</brand>
+        <brand>Samsung</brand>
+        <brand>Sony</brand>
+        <brand>LG</brand>
+    </category>
+    <category name="Fashion">
+        <brand>Nike</brand>
+        <brand>Adidas</brand>
+        <brand>Zara</brand>
+        <brand>H&M</brand>
+    </category>
+</categories>
